@@ -43,5 +43,5 @@ By combining best practices like batch normalization and He initialization, this
 
 To reproduce or extend this work, ensure the following setup:
 
-```bash
+``bash
 pip install tensorflow numpy matplotlib
